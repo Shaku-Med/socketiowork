@@ -1,0 +1,23 @@
+{
+    "short_name": "Eagle",
+    "name": "Eagle",
+    "icons": [
+        {
+            "src": "https://www.vippng.com/png/full/442-4424935_eagle-blue-eagles-logo-png.png",
+            "sizes": "512x453",
+            "type": "image/x-icon"
+        },
+        {
+            "src": "https://www.vippng.com/png/full/442-4424935_eagle-blue-eagles-logo-png.png",
+            "type": "image/png",
+            "sizes": "512x453"
+        },
+        {
+            "src": "https://www.vippng.com/png/full/442-4424935_eagle-blue-eagles-logo-png.png",
+            "type": "image/png",
+            "sizes": "512x453"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone"
+}
